@@ -61,7 +61,6 @@ public class BankAccount {
             System.out.println("Remaining Balance = " + newBalance);
         }
     }
-    //adding random text to check git diff
 }
 
 
